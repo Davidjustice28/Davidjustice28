@@ -4,11 +4,11 @@
 
 👨‍🎨 Portfolio: [Site](https://davidjustice28.github.io/justice_portfolio_site)
 
-🗣️ Languages: Typescript, Golang, Python
+🗣️ Languages: Typescript, Golang, Python, Ruby
 
-💻 Web-Frameworks: React, Angular, NestJS, Remix
+💻 Web-Frameworks: React, Angular, NestJS, Remix, Ruby on Rails
 
-🌱 Currently Working On: [ProductLamb - AI Product Manager](https://productlamb.com) 
+🌱 Currently Building: [Pzerro.com](https://pzerro.com) 
 
 📫 Email: _davidjustice28@gmail.com_
 
