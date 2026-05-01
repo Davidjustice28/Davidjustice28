@@ -4,11 +4,11 @@
 
 👨‍🎨 Portfolio: [Site](https://davidjustice28.github.io/justice_portfolio_site)
 
-🗣️ Languages: Typescript, Golang, Python, Ruby
+🗣️ Languages: Typescript, Python, Ruby, and Golang
 
-💻 Web-Frameworks: React, Angular, NestJS, Remix, Ruby on Rails
+💻 Web-Frameworks: NextJS, TypeScript, React, Angular, and Ruby on Rails
 
-🌱 Currently Building: [Pzerro.com](https://pzerro.com) 
+🌱 Currently Building: [Demomatic](https://demomatic.tech)
 
 📫 Email: _davidjustice28@gmail.com_
 
